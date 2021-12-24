@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chernikovtimofey
 - 👀 I’m interested in programming, math and stuff
-- 🌱 I’m currently getting a Bachelor's degree
+- 🌱 I’m currently getting a Bachelor's degree at Russian university RTU MIREA
 - 📫 How to reach me chernikovtimofeyg@gmail.com
